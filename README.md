@@ -16,10 +16,11 @@ I'm now going deeper into hands-on AI/ML through the **Post Graduate Certificate
 Generative AI · NLP · Agentic AI · Responsible AI in practice
 
 ### Tools & Tech
-**Data & AI:** Python · SQL · R · Databricks · Snowflake · Azure Data Factory
-**BI & Governance:** Power BI · Tableau · Collibra · Informatica · Atlan
-**Cloud:** Azure · AWS (Certified Cloud Practitioner) · Oracle Cloud (OCI Associate)
-**Practices:** Git · CI/CD · MLOps
+### 🛠️ Tools & Tech
+- **Data & AI:** Python · SQL · R · Databricks · Snowflake · Azure Data Factory
+- **BI & Governance:** Power BI · Tableau · Collibra · Informatica · Atlan
+- **Cloud:** Azure · AWS (Certified Cloud Practitioner) · Oracle Cloud (OCI Associate)
+- **Practices:** Git · CI/CD · MLOps
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/jesal-shah-a7b87836/)
