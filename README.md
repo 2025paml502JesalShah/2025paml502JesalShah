@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jesal 👋
 
-<!--
-**2025paml502JesalShah/2025paml502JesalShah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data & AI Governance Consultant** at UNICC (United Nations) with 12+ years of experience building trusted, compliant, and AI-ready data ecosystems across UN agencies, banking, healthcare, and energy.
 
-Here are some ideas to get you started:
+I'm now going deeper into hands-on AI/ML through the **Post Graduate Certificate in AI & ML at BITS Pilani**, connecting governance expertise with practical model building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I do
+- Data & AI governance frameworks, responsible AI, and AI readiness
+- Data quality, metadata management, and data lineage
+- Data integration, ETL pipelines, and BI dashboards for 6+ UN agencies
+
+### 🚀 What I've built
+- [ETA Prediction with MLOps](https://github.com/2025paml502JesalShah/eta-mlops-group22): an MLOps pipeline for NYC Taxi Trip Duration Prediction (group project)
+
+### 🌱 Currently exploring
+Generative AI · NLP · Agentic AI · Responsible AI in practice
+
+### 🛠️ Tools & Tech
+**Data & AI:** Python · SQL · R · Databricks · Snowflake · Azure Data Factory
+**BI & Governance:** Power BI · Tableau · Collibra · Informatica · Atlan
+**Cloud:** Azure · AWS (Certified Cloud Practitioner) · Oracle Cloud (OCI Associate)
+**Practices:** Git · CI/CD · MLOps
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/jesal-shah-a7b87836/)
