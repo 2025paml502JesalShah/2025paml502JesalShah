@@ -15,7 +15,6 @@ I'm now going deeper into hands-on AI/ML through the **Post Graduate Certificate
 ### Currently exploring
 Generative AI · NLP · Agentic AI · Responsible AI in practice
 
-### Tools & Tech
 ### 🛠️ Tools & Tech
 - **Data & AI:** Python · SQL · R · Databricks · Snowflake · Azure Data Factory
 - **BI & Governance:** Power BI · Tableau · Collibra · Informatica · Atlan
